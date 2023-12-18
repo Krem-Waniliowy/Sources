@@ -22,4 +22,8 @@ Information sources:
 1. https://www.ibm.com/
 2. https://www.lazarski.pl/
 3. https://www.voteaustralia.org.au/blockchain_voting
-4. 
+4. https://bernardmarr.com/the-5-biggest-problems-with-blockchain-technology-everyone-must-know-about/
+5. https://www.softeq.com/blog/four-blockchain-supply-chain-examples
+6. https://hedera.com/learning/smart-contracts/smart-contract-use-cases
+7. https://research.aimultiple.com/smart-contracts-examples/
+8. https://www.coursera.org/articles/blockchain-cryptocurrency
